@@ -1,0 +1,15 @@
+### SolidityTruffle ###
+# depedencies
+node_modules
+
+# testing
+coverage
+
+# production
+build
+build_webpack
+
+#truffle
+.tern-port
+yarn.lock
+package-lock.json
